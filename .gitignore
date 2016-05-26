@@ -8,6 +8,8 @@ _SpecRunner.html
 *.svg
 *.ttf
 *.eot
+flickrconfig.js
+
 
 # Created by https://www.gitignore.io
 
